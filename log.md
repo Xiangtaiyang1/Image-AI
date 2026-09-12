@@ -1,13 +1,13 @@
 # This is the log file
 # 这是记录文件<br>
 ## Table of Content/目录:
-[2026/09/11](#20260911)
+[2026/09/11](#20260911)<br>
 [2026/09/12](#20260912)
 ### Format/格式:
 Special Note/注: Need to add the date to the table of content/需要将日期添加到目录
 Table of Content/目录:
 ```markdown
-[yyyy/mm/dd](yyyymmdd)
+[yyyy/mm/dd](yyyymmdd)<br>
 ```
 Log/日志:
 ```markdown
