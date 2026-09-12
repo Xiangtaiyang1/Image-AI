@@ -7,7 +7,7 @@
 Special Note/注: Need to add the date to the table of content/需要将日期添加到目录
 Table of Content/目录:
 ```markdown
-[yyyy/mm/dd](yyyymmdd)<br>
+[yyyy/mm/dd](#yyyymmdd)<br>
 ```
 Log/日志:
 ```markdown
@@ -19,7 +19,7 @@ Content/内容
 The beginning of the 21th century<br>
 21世纪的开始
 <br><br>
-### **LOG/日志:**
+## **LOG/日志:**
 ###### 2026/09/11
 ~~911事件25周年纪念日~~<br>
 将项目开源到 `github`<br>
@@ -41,7 +41,7 @@ The beginning of the 21th century<br>
     
     return detections
     ```
-    这里调用了draw_detections函数
+    这里调用了`draw_detections函数`
     ```python
     def draw_detections(image, detections, classes=None):
         ...
@@ -50,4 +50,4 @@ The beginning of the 21th century<br>
             ...
         return vis_img
     ```
-    这里的映射存在巨大问题。bbox映射方式为[x, y, w, h]，然而这里却使用了图像框的四个角的坐标\(`[x1, y1, x2, y2]`\)。同时，AI 进行处理时使用的是`640x640`大小的图片，输出是却没有依照原图像比例进行映射。
+    这里的**映射**存在巨大问题。`bbox`映射方式为[x, y, w, h]，然而这里却使用了图像框的四个角的坐标\(`[x1, y1, x2, y2]`\)。同时，AI 进行处理时使用的是`640x640`大小的图片，输出是却**没有依照原图像比例进行映射**。
