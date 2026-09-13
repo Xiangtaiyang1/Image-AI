@@ -1,13 +1,13 @@
 # This is the log file
 # 这是记录文件<br>
-## Table of Content/目录:
+### Table of Content/目录:
 [2026/09/11](#20260911)<br>
 [2026/09/12](#20260912)
 ### Format/格式:
 Special Note/注: Need to add the date to the table of content/需要将日期添加到目录
 Table of Content/目录:
 ```markdown
-[yyyy/mm/dd](#yyyymmdd)<br>
+[yyyy/mm/dd](yyyymmdd)<br>
 ```
 Log/日志:
 ```markdown
@@ -21,9 +21,8 @@ The beginning of the 21th century<br>
 <br><br>
 ## **LOG/日志:**
 ###### 2026/09/11
-~~911事件25周年纪念日~~<br>
-将项目开源到 `github`<br>
-使用 MIT 协议，更新 README，上传文件
+~~911事件25周年纪念日~~<br>  
+将项目开源到 `github`，用 `MIT 协议`，更新 `README`，上传文件
 ###### 2026/09/12
 ~~终于不是 9.11 了~~<br>
 1. 发现了 AI 的第一个bug：
