@@ -5,7 +5,7 @@ Although this is a project that uses the `MIT license`, we still wish you **NOT*
 ### Introduction:
 I wish you **KNOW**, but this is _just an AI_, PLEASEEEEEEEEEEEEEEEEEEEEEEEEEE TRUSTTTTTTTTTTTTTTTTTTTT MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 ### Other:
-We encourage all kinds of `feedbacks`, especially **helpful feedbacks**.<br>
+We encourage all kinds of `feedbacks`, especially **helpful feedbacks**.  
 _Sorry_, but we do not accept outer pull requests **yet**.
 ### License:
-[MIT](LICENSE)
+[MIT License](LICENSE)
